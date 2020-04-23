@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 23 10:09:03 2020
-
-@author: Menios
-"""
-
 import requests 
 import hashlib
 import sys
